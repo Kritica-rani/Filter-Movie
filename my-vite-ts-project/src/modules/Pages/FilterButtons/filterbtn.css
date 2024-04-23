@@ -1,0 +1,9 @@
+.genre-button {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.filter-btn {
+  background-color: var(--black);
+  color: white;
+}

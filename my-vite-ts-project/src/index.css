@@ -1,0 +1,9 @@
+:root {
+  --black: #000000;
+  --red: #e50914;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: var(--black);
+}
